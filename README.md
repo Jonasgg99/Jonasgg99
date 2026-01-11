@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Jonasgg99
-- 👀 I’m interested in games, apps, React, JavaScript, Java, biology, the environment, training
-- 🌱 I’m currently learning React, JavaScript and HTML through FullStack Open 2021
+Mostly fun projects and learning materials.
+Currently learning cybersecurity basics.
